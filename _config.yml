@@ -30,9 +30,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-domain: nathanielks.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://nathanielks.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /nathanielks.me/      # place folder name if the site is served in a subfolder
+domain: nathanielks.me       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://nathanielks.me  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /      # place folder name if the site is served in a subfolder
 
 utterances:
   repo: "nathanielks/nathanielks.me"
