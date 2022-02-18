@@ -33,6 +33,12 @@ plugins:
 domain: nathanielks.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://nathanielks.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /nathanielks.me/      # place folder name if the site is served in a subfolder
+
+utterances:
+  repo: "nathanielks/nathanielks.me"
+  issue-term: "pathname"
+  label: "📃 blog post"
+  theme: "preferred-color-scheme"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
